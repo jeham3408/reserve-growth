@@ -1,0 +1,357 @@
+{
+ "zero_rows_dropped": [
+  {
+   "fldName": "HUGIN SATELLITTER",
+   "year": 2025
+  },
+  {
+   "fldName": "TROLL BRENT B",
+   "year": 2025
+  },
+  {
+   "fldName": "TROLL BRENT B",
+   "year": 2024
+  },
+  {
+   "fldName": "VEGA SØR",
+   "year": 2011
+  },
+  {
+   "fldName": "TYRIHANS",
+   "year": 2005
+  }
+ ],
+ "n_fields_with_estimates": 142,
+ "n_estimate_rows": 2328,
+ "fields_not_in_field_table": [
+  "VEGA SØR",
+  "ÆRFUGL"
+ ],
+ "grane_oil": {
+  "2004": 120.31,
+  "2025": 150.78,
+  "expected": {
+   "2004": 120.31,
+   "2025": 150.78
+  }
+ },
+ "production_exceeds_recoverable": [
+  {
+   "name": "SLEIPNER ØST",
+   "year": 2025,
+   "oe": 121.89,
+   "cum_prod_to_est_year": 250.402,
+   "ratio": 2.054
+  },
+  {
+   "name": "GYDA",
+   "year": 2025,
+   "oe": 46.06,
+   "cum_prod_to_est_year": 46.409,
+   "ratio": 1.008
+  },
+  {
+   "name": "COD",
+   "year": 2025,
+   "oe": 11.15,
+   "cum_prod_to_est_year": 11.215,
+   "ratio": 1.006
+  },
+  {
+   "name": "TUNE",
+   "year": 2025,
+   "oe": 23.0,
+   "cum_prod_to_est_year": 24.26,
+   "ratio": 1.055
+  },
+  {
+   "name": "MORVIN",
+   "year": 2025,
+   "oe": 14.58,
+   "cum_prod_to_est_year": 16.015,
+   "ratio": 1.098
+  },
+  {
+   "name": "KNARR",
+   "year": 2025,
+   "oe": 11.27,
+   "cum_prod_to_est_year": 11.416,
+   "ratio": 1.013
+  }
+ ],
+ "implied_sold_vs_production_table_median_abs_diff": 0.08050000000000068,
+ "totals_by_year": [
+  {
+   "year": 2004,
+   "recoverable_oe": 7960.11,
+   "remaining_oe": 3917.7,
+   "n_fields": 66,
+   "sold_oe": 4042.41,
+   "cum_production_table_oe": 4039.81
+  },
+  {
+   "year": 2005,
+   "recoverable_oe": 8181.91,
+   "remaining_oe": 3880.75,
+   "n_fields": 71,
+   "sold_oe": 4301.16,
+   "cum_production_table_oe": 4297.54
+  },
+  {
+   "year": 2006,
+   "recoverable_oe": 8137.26,
+   "remaining_oe": 3566.93,
+   "n_fields": 74,
+   "sold_oe": 4570.33,
+   "cum_production_table_oe": 4547.11
+  },
+  {
+   "year": 2007,
+   "recoverable_oe": 8422.24,
+   "remaining_oe": 3612.32,
+   "n_fields": 80,
+   "sold_oe": 4809.92,
+   "cum_production_table_oe": 4785.45
+  },
+  {
+   "year": 2008,
+   "recoverable_oe": 8456.04,
+   "remaining_oe": 3402.65,
+   "n_fields": 83,
+   "sold_oe": 5053.39,
+   "cum_production_table_oe": 5029.03
+  },
+  {
+   "year": 2009,
+   "recoverable_oe": 8451.47,
+   "remaining_oe": 3165.85,
+   "n_fields": 85,
+   "sold_oe": 5285.62,
+   "cum_production_table_oe": 5269.65
+  },
+  {
+   "year": 2010,
+   "recoverable_oe": 8584.65,
+   "remaining_oe": 3064.59,
+   "n_fields": 89,
+   "sold_oe": 5520.06,
+   "cum_production_table_oe": 5500.78
+  },
+  {
+   "year": 2011,
+   "recoverable_oe": 8904.02,
+   "remaining_oe": 3163.45,
+   "n_fields": 97,
+   "sold_oe": 5740.57,
+   "cum_production_table_oe": 5720.4
+  },
+  {
+   "year": 2012,
+   "recoverable_oe": 9138.89,
+   "remaining_oe": 3172.15,
+   "n_fields": 101,
+   "sold_oe": 5966.74,
+   "cum_production_table_oe": 5946.69
+  },
+  {
+   "year": 2013,
+   "recoverable_oe": 9348.96,
+   "remaining_oe": 3168.72,
+   "n_fields": 105,
+   "sold_oe": 6180.24,
+   "cum_production_table_oe": 6162.08
+  },
+  {
+   "year": 2014,
+   "recoverable_oe": 9362.37,
+   "remaining_oe": 2961.3,
+   "n_fields": 107,
+   "sold_oe": 6401.07,
+   "cum_production_table_oe": 6379.84
+  },
+  {
+   "year": 2015,
+   "recoverable_oe": 9758.71,
+   "remaining_oe": 3128.63,
+   "n_fields": 109,
+   "sold_oe": 6630.08,
+   "cum_production_table_oe": 6609.78
+  },
+  {
+   "year": 2016,
+   "recoverable_oe": 9833.22,
+   "remaining_oe": 2971.04,
+   "n_fields": 111,
+   "sold_oe": 6862.18,
+   "cum_production_table_oe": 6842.72
+  },
+  {
+   "year": 2017,
+   "recoverable_oe": 10083.45,
+   "remaining_oe": 2983.64,
+   "n_fields": 116,
+   "sold_oe": 7099.81,
+   "cum_production_table_oe": 7081.82
+  },
+  {
+   "year": 2018,
+   "recoverable_oe": 10325.71,
+   "remaining_oe": 2995.08,
+   "n_fields": 121,
+   "sold_oe": 7330.63,
+   "cum_production_table_oe": 7311.5
+  },
+  {
+   "year": 2019,
+   "recoverable_oe": 10448.23,
+   "remaining_oe": 2898.65,
+   "n_fields": 123,
+   "sold_oe": 7549.58,
+   "cum_production_table_oe": 7527.59
+  },
+  {
+   "year": 2020,
+   "recoverable_oe": 10472.39,
+   "remaining_oe": 2695.73,
+   "n_fields": 123,
+   "sold_oe": 7776.66,
+   "cum_production_table_oe": 7756.56
+  },
+  {
+   "year": 2021,
+   "recoverable_oe": 10642.99,
+   "remaining_oe": 2628.29,
+   "n_fields": 124,
+   "sold_oe": 8014.7,
+   "cum_production_table_oe": 7989.48
+  },
+  {
+   "year": 2022,
+   "recoverable_oe": 10727.32,
+   "remaining_oe": 2480.55,
+   "n_fields": 127,
+   "sold_oe": 8246.77,
+   "cum_production_table_oe": 8224.1
+  },
+  {
+   "year": 2023,
+   "recoverable_oe": 10954.18,
+   "remaining_oe": 2465.22,
+   "n_fields": 138,
+   "sold_oe": 8488.96,
+   "cum_production_table_oe": 8458.67
+  },
+  {
+   "year": 2024,
+   "recoverable_oe": 10987.11,
+   "remaining_oe": 2261.27,
+   "n_fields": 139,
+   "sold_oe": 8725.84,
+   "cum_production_table_oe": 8701.32
+  },
+  {
+   "year": 2025,
+   "recoverable_oe": 11140.8,
+   "remaining_oe": 2165.11,
+   "n_fields": 139,
+   "sold_oe": 8975.69,
+   "cum_production_table_oe": 8941.86
+  }
+ ],
+ "t0_differs_from_first_production": [
+  {
+   "name": "BALDER",
+   "t0": 1999.0,
+   "first_prod_year": 1991.0
+  },
+  {
+   "name": "HEIMDAL",
+   "t0": 1985.0,
+   "first_prod_year": 1986.0
+  },
+  {
+   "name": "VESLEFRIKK",
+   "t0": 1989.0,
+   "first_prod_year": 1990.0
+  },
+  {
+   "name": "OSEBERG",
+   "t0": 1988.0,
+   "first_prod_year": 1986.0
+  },
+  {
+   "name": "MURCHISON",
+   "t0": 1980.0,
+   "first_prod_year": 1981.0
+  },
+  {
+   "name": "MIME",
+   "t0": 1993.0,
+   "first_prod_year": 1990.0
+  },
+  {
+   "name": "TROLL",
+   "t0": 1995.0,
+   "first_prod_year": 1990.0
+  },
+  {
+   "name": "GRANE",
+   "t0": 2003.0,
+   "first_prod_year": 1996.0
+  },
+  {
+   "name": "SIGYN",
+   "t0": 2002.0,
+   "first_prod_year": 2003.0
+  },
+  {
+   "name": "GIMLE",
+   "t0": 2006.0,
+   "first_prod_year": 2005.0
+  },
+  {
+   "name": "MARIA",
+   "t0": 2017.0,
+   "first_prod_year": 2018.0
+  }
+ ],
+ "concept_overrides": [
+  [
+   "ENOCH",
+   "Satellite / tie-back",
+   "one production well tied to the British Brae field; the listed jacket is the host"
+  ],
+  [
+   "SNØHVIT",
+   "Own facility",
+   "subsea to shore with its own LNG plant at Melkøya; not a tie-back to another field"
+  ],
+  [
+   "ORMEN LANGE",
+   "Own facility",
+   "subsea to shore with its own plant at Nyhamna; not a tie-back to another field"
+  ]
+ ],
+ "cohort_fields_without_any_facility_row": [
+  "RINGHORNE ØST",
+  "GIMLE",
+  "TAMBAR ØST",
+  "ISLAY",
+  "FLYNDRE",
+  "BYRDING",
+  "SINDRE"
+ ],
+ "sources": {
+  "field_reserves": "field_reserves_2026-11-19.csv",
+  "field": "field_2026-11-19.csv",
+  "field_activity_status_hst": "field_activity_status_hst_2026-11-19.csv",
+  "field_production_yearly": "field_production_yearly_2026-11-19.csv",
+  "field_in_place_volumes": "field_in_place_volumes_2026-11-19.csv",
+  "field_description": "field_description_2026-11-19.csv",
+  "field_operator_hst": "field_operator_hst_2026-11-19.csv",
+  "discovery": "discovery_2026-11-19.csv",
+  "facility_fixed": "facility_fixed_2026-11-19.csv",
+  "wellbore_exploration_all": "wellbore_exploration_all_2026-11-19.csv",
+  "field_investment_yearly": "field_investment_yearly_2026-11-19.csv"
+ }
+}

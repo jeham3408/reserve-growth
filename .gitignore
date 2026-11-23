@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+# third-party copies that are fetched by pipeline/download.py and not redistributed
+raw/nsta/
+raw/brownbook/pages/
+raw/brownbook/editions/
+raw/watkins/
+derived/watkins_2000.txt
+raw/download_uk.log
+raw/download_editions.log
+# private working files
+PROMPT.md
+START.txt
+tools/
+talk/svar_til_christian.md
+research/datakartlegging_2026-11-19.json

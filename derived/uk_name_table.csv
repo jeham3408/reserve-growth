@@ -1,0 +1,229 @@
+field,watkins_name,brown_book_name,brown_book_file,nsta_names,match
+Alba,Alba,Alba,alba.htm,ALBA,exact (normalised)
+Alison,,Alison,alison.htm,,no PPRS rows
+Alison KX,,Alison KX,alisonkx.htm,,no PPRS rows
+Alwyn North,Alwyn North,Alwyn North,alwynn.htm,ALWYN NORTH,exact (normalised)
+Amethyst East and Amethyst West,,Amethyst East and Amethyst West,amethyst.htm,,no PPRS rows
+Andrew,Andrew,Andrew,andrew.htm,ANDREW,exact (normalised)
+Anglia,,Anglia,anglia.htm,,no PPRS rows
+Angus,Angus,,,,no PPRS rows
+Ann,,Ann,ann.htm,,no PPRS rows
+Arboath,Arboath,,,ARBROATH,manual alias
+Arbroath,,Arbroath,arbroath.htm,ARBROATH,exact (normalised)
+Argyll,Argyll,,,ARGYLL,exact (normalised)
+Arkwright,Arkwright,Arkwright,arkwrigh.htm,ARKWRIGHT,exact (normalised)
+Audrey,,Audrey,audrey.htm,,no PPRS rows
+Auk,Auk,Auk,auk.htm,AUK,exact (normalised)
+Baird,,Baird,baird.htm,BAIRD,exact (normalised)
+Balmoral,Balmoral,Balmoral,balmoral.htm,BALMORAL,exact (normalised)
+Banff,Banff,Banff,banff.htm,BANFF,exact (normalised)
+Barque & Barque South,,Barque & Barque South,barque.htm,,no PPRS rows
+Beatrice,Beatrice,Beatrice,beatrice.htm,,no PPRS rows
+Beaufort,,Beaufort,beaufort.htm,,no PPRS rows
+Beauly,,Beauly,beauly.htm,BEAULY,exact (normalised)
+Beinn,Beinn,Beinn,beinn.htm,BEINN,exact (normalised)
+Bell,,Bell,bell.htm,BELL [CONOCOPHILLIPS]; BELL [PERENCO],exact (normalised)
+Beryl,,Beryl,beryl.htm,BERYL,exact (normalised)
+Beryl A&B,Beryl A&B,,,BERYL,manual alias
+Bessemer,,Bessemer,bessemer.htm,BESSEMER,exact (normalised)
+Birch,Birch,Birch,birch.htm,BIRCH,exact (normalised)
+Bittern,,Bittern,bittern.htm,BITTERN,exact (normalised)
+Blake,,Blake,blake.htm,BLAKE,exact (normalised)
+Blenheim,Blenheim,,,,no PPRS rows
+Boulton,,Boulton,boulton.htm,,no PPRS rows
+Brae East,,Brae East,braeeast.htm,EAST BRAE,exact (normalised)
+Brae West,,Brae West,braewest.htm,WEST BRAE,exact (normalised)
+"Brae, Central","Brae, Central",,,BRAE-CENTRAL [Part of BRAE],exact (normalised)
+"Brae, North","Brae, North",,,BRAE-NORTH [Part of BRAE],exact (normalised)
+"Brae, South","Brae, South",,,BRAE-SOUTH [Part of BRAE],exact (normalised)
+Brent,Brent,Brent,brent.htm,BRENT,exact (normalised)
+Brimmond,Brimmond,Brimmond,brimmond.htm,BRIMMOND,exact (normalised)
+Britannia,,Britannia,britanni.htm,BRITANNIA,exact (normalised)
+Brown,,Brown,brown.htm,BROWN,exact (normalised)
+Bruce,Bruce,Bruce,bruce.htm,BRUCE,exact (normalised)
+Buchan,Buchan,Buchan,buchan.htm,,no PPRS rows
+Buckland,,Buckland,buckland.htm,BUCKLAND,exact (normalised)
+Caister (B and C),,Caister (B and C),caister.htm,,no PPRS rows
+Callisto,,Callisto,callisto.htm,,no PPRS rows
+Captain,,Captain,captain.htm,CAPTAIN,exact (normalised)
+Chanter,Chanter,Chanter,chanter.htm,,no PPRS rows
+Claymore,Claymore,Claymore,claymore.htm,CLAYMORE,exact (normalised)
+Clipper,,Clipper,clipper.htm,,no PPRS rows
+Clyde,Clyde,Clyde,clyde.htm,CLYDE,exact (normalised)
+Cook,,Cook,cook.htm,COOK,exact (normalised)
+Cormorant North,Cormorant North,Cormorant North,cormoran.htm,CORMORANT NORTH,exact (normalised)
+Cormorant South,Cormorant South,Cormorant South,cormsth.htm,SOUTH CORMORANT,exact (normalised)
+Corvette,,Corvette,corvette.htm,CORVETTE,exact (normalised)
+Crawford,Crawford,,,,no PPRS rows
+Curlew,,Curlew,curlew.htm,,no PPRS rows
+Cyrus,Cyrus,Cyrus,cyrus.htm,CYRUS,exact (normalised)
+Dalton,,Dalton,dalton.htm,DALTON,exact (normalised)
+Davy,,Davy,davy.htm,DAVY,exact (normalised)
+Dawn,,Dawn,dawn.htm,,no PPRS rows
+Delilah,,Delilah,delilah.htm,DELILAH,exact (normalised)
+Della,,Della,della.htm,,no PPRS rows
+Deveron,Deveron,Deveron,deveron.htm,DEVERON,exact (normalised)
+Don,Don,Don,don.htm,,no PPRS rows
+Donan,Donan,,,DONAN; DONAN [MAERSK],exact (normalised)
+Douglas,Douglas,Douglas,douglas.htm,DOUGLAS,exact (normalised)
+Dunbar,Dunbar,Dunbar,dunbar.htm,DUNBAR,exact (normalised)
+Duncan,Duncan,,,DUNCAN,exact (normalised)
+Dunlin,Dunlin,Dunlin,dunlin.htm,,no PPRS rows
+Dunlin SW,Dunlin SW,,,,no PPRS rows
+Dunlin South West,,Dunlin South West,dunlinsw.htm,,no PPRS rows
+Egret,,Egret,egret.htm,EGRET,exact (normalised)
+Eider,Eider,Eider,eider.htm,EIDER,exact (normalised)
+Elgin,,Elgin,elgin.htm,ELGIN,exact (normalised)
+Ellon,,Ellon,ellon.htm,ELLON,exact (normalised)
+Emerald,Emerald,,,EMERALD,exact (normalised)
+Erskine,,Erskine,erskine.htm,ERSKINE,exact (normalised)
+Europa,,Europa,europa.htm,,no PPRS rows
+Everest,,Everest,everest.htm,EVEREST,exact (normalised)
+Excalibur,,Excalibur,excalibr.htm,EXCALIBUR,exact (normalised)
+Fergus,Fergus,Fergus,fergus.htm,,no PPRS rows
+Fife,Fife,Fife,fife.htm,,no PPRS rows
+Flora,,Flora,flora.htm,,no PPRS rows
+Foinaven,,Foinaven,foinaven.htm,FOINAVEN,exact (normalised)
+Forties,Forties,Forties,forties.htm,FORTIES,exact (normalised)
+Franklin,,Franklin,franklin.htm,FRANKLIN,exact (normalised)
+Frigg (UK),,Frigg (UK),frigg.htm,,no PPRS rows
+Fulmar,Fulmar,Fulmar,fulmar.htm,FULMAR,exact (normalised)
+Galahad,,Galahad,galahad.htm,,no PPRS rows
+Galleon,,Galleon,galleon.htm,GALLEON,exact (normalised)
+Galley,,Galley,galley.htm,GALLEY,exact (normalised)
+Gannet A,Gannet A,,,GANNET A,exact (normalised)
+Gannet C,Gannet C,,,GANNET C,exact (normalised)
+Gannet D,Gannet D,,,GANNET D,exact (normalised)
+Ganymede,,Ganymede,ganymede.htm,,no PPRS rows
+Gawain,,Gawain,gawain.htm,,no PPRS rows
+Glamis,Glamis,Glamis,glamis.htm,GLAMIS,exact (normalised)
+Grant,,Grant,grant.htm,GRANT,exact (normalised)
+Gryphon,Gryphon,Gryphon,gryphon.htm,GRYPHON,exact (normalised)
+Guillemot A,Guillemot A,Guillemot A,guillemt.htm,GUILLEMOT A,exact (normalised)
+Guillemot West & Guillemot Northwest,,Guillemot West & Guillemot Northwest,guillewt.htm,GUILLEMOT WEST; GUILLEMOT NORTH WEST,manual alias
+Guinevere,,Guinevere,guinever.htm,,no PPRS rows
+Hamilton,,Hamilton,hamilton.htm,HAMILTON,exact (normalised)
+Hamilton North,,Hamilton North,hamiltnn.htm,HAMILTON NORTH,exact (normalised)
+Hamish,Hamish,Hamish,hamish.htm,,no PPRS rows
+Hannay,,Hannay,hannay.htm,HANNAY,exact (normalised)
+Harding,Harding,Harding,harding.htm,HARDING,exact (normalised)
+Heather,Heather,Heather,heather.htm,HEATHER,exact (normalised)
+Heron,,Heron,heron.htm,HERON,exact (normalised)
+Hewett,,Hewett,hewett.htm,HEWETT,exact (normalised)
+Highlander,Highlander,Highlander,highland.htm,HIGHLANDER,exact (normalised)
+Hoton,,Hoton,hoton.htm,HOTON,exact (normalised)
+Hudson,Hudson,Hudson,hudson.htm,HUDSON,exact (normalised)
+Hutton,Hutton,,,,no PPRS rows
+Hutton NW,Hutton NW,,,,no PPRS rows
+Hutton North West,,Hutton North West,huttonnw.htm,,no PPRS rows
+Hyde,,Hyde,hyde.htm,HYDE,exact (normalised)
+Indefatigable,,Indefatigable,inde.htm,INDEFATIGABLE [PERENCO]; INDEFATIGABLE [SHELL],exact (normalised)
+Indefatigable & Indefatigable SW,,Indefatigable & Indefatigable SW,indesw.htm,,no PPRS rows
+Innes,Innes,,,,no PPRS rows
+Iona,,Iona,iona.htm,,no PPRS rows
+Ivanhoe,Ivanhoe,Ivanhoe,ivanhoe.htm,,no PPRS rows
+Jade,,Jade,jade.htm,JADE,exact (normalised)
+Janice,,Janice,janice.htm,JANICE,exact (normalised)
+Joanne,Joanne,Joanne,joanne.htm,JOANNE,exact (normalised)
+Johnston,,Johnston,johnston.htm,JOHNSTON,exact (normalised)
+Judy,,Judy,judy.htm,JUDY,exact (normalised)
+Keith,,Keith,keith.htm,KEITH,exact (normalised)
+Ketch,,Ketch,ketch.htm,,no PPRS rows
+Kingfisher,,Kingfisher,kingfish.htm,KINGFISHER,exact (normalised)
+Kittiwake,Kittiwake,Kittiwake,kittiwak.htm,KITTIWAKE,exact (normalised)
+Kyle,,Kyle,kyle.htm,KYLE,exact (normalised)
+Lancelot,,Lancelot,lancelot.htm,LANCELOT,exact (normalised)
+Larch,,Larch,larch.htm,LARCH,exact (normalised)
+Leadon,,Leadon,leadon.htm,,no PPRS rows
+Leman,,Leman,lemana.htm,LEMAN [PERENCO][pt. of LEMAN]; LEMAN [SHELL][pt. of LEMAN],exact (normalised)
+Lennox,Lennox,Lennox,lennox.htm,LENNOX,exact (normalised)
+Leven,Leven,Leven,levan.htm,LEVEN,exact (normalised)
+Linnhe,Linnhe,,,,no PPRS rows
+Lomond,,Lomond,lomond.htm,LOMOND; LOMOND (COLUMBUS),exact (normalised)
+Lyell,Lyell,Lyell,lyell.htm,LYELL,exact (normalised)
+MacCulloch,,MacCulloch,maccullo.htm,,no PPRS rows
+Machar,Machar,Machar,machar.htm,MACHAR,exact (normalised)
+Magnus,Magnus,Magnus,magnus.htm,MAGNUS,exact (normalised)
+Magnus South,Magnus South,Magnus South,magnuss.htm,,no PPRS rows
+Mallard,,Mallard,mallard.htm,MALLARD,exact (normalised)
+Malory,,Malory,malory.htm,MALORY,exact (normalised)
+Markham (UK),,Markham (UK),markham.htm,MARKHAM,exact (normalised)
+Marnock,,Marnock,marnock.htm,,no PPRS rows
+Maureen,Maureen,,,,no PPRS rows
+Medwin,Medwin,Medwin,medwin.htm,MEDWIN,exact (normalised)
+Mercury,,Mercury,mercury.htm,MERCURY,exact (normalised)
+Merlin,,Merlin,merlin.htm,,no PPRS rows
+Miller,Miller,Miller,miller.htm,,no PPRS rows
+Millom,,Millom,millom.htm,MILLOM,exact (normalised)
+Moira,Moira,,,MOIRA,exact (normalised)
+Monan,,Monan,monan.htm,MONAN,exact (normalised)
+Montrose,Montrose,Montrose,montrose.htm,MONTROSE,exact (normalised)
+Mordred,,Mordred,mordred.htm,,no PPRS rows
+Morecambe North,,Morecambe North,morecamn.htm,NORTH MORECAMBE,exact (normalised)
+Morecambe South,,Morecambe South,morecams.htm,SOUTH MORECAMBE,exact (normalised)
+Mungo,,Mungo,mungo.htm,MUNGO,exact (normalised)
+Murchison (UK),Murchison (UK),Murchison (UK),murchisn.htm,MURCHISON,exact (normalised)
+Murdoch,,Murdoch,murdoch.htm,,no PPRS rows
+Nelson,Nelson,Nelson,nelson.htm,NELSON,exact (normalised)
+Neptune,,Neptune,neptune.htm,NEPTUNE,exact (normalised)
+Ness,Ness,Ness,ness.htm,NESS,exact (normalised)
+Nevis,Nevis,Nevis,nevis.htm,NEVIS,exact (normalised)
+Newsham,,Newsham,newsham.htm,NEWSHAM,exact (normalised)
+Ninian,Ninian,Ninian,ninian.htm,NINIAN,exact (normalised)
+"Nuggets (N1, N2 & N3)",,"Nuggets (N1, N2 & N3)",nuggets.htm,,no PPRS rows
+Orion,,Orion,orion.htm,ORION,exact (normalised)
+Orwell,,Orwell,orwell.htm,,no PPRS rows
+Osprey,Osprey,Osprey,osprey.htm,,no PPRS rows
+Pelican,Pelican,Pelican,pelican.htm,PELICAN,exact (normalised)
+Petronella,Petronella,Petronella,petronel.htm,PETRONELLA,exact (normalised)
+Pickerill,,Pickerill,pickeril.htm,,no PPRS rows
+Pierce,,Pierce,pierce.htm,PIERCE,exact (normalised)
+Piper,Piper,Piper,piper.htm,PIPER,exact (normalised)
+Ravenspurn North,,Ravenspurn North,ravennth.htm,,no PPRS rows
+Ravenspurn South,,Ravenspurn South,ravensth.htm,,no PPRS rows
+Renee,,Renee,renee.htm,,no PPRS rows
+Rob Roy,Rob Roy,Rob Roy,robroy.htm,,no PPRS rows
+Ross,,Ross,ross.htm,ROSS,exact (normalised)
+Rough,,Rough,rough.htm,ROUGH,exact (normalised)
+Rubie,,Rubie,rubie.htm,,no PPRS rows
+Saltire,Saltire,Saltire,saltire.htm,,no PPRS rows
+Scapa,Scapa,Scapa,scapa.htm,SCAPA,exact (normalised)
+Schiehallion,,Schiehallion,schiehal.htm,SCHIEHALLION,exact (normalised)
+Schooner,,Schooner,schooner.htm,,no PPRS rows
+Scott,Scott,Scott,scott.htm,SCOTT,exact (normalised)
+Sean East,,Sean East,seaneast.htm,EAST SEAN,exact (normalised)
+Sean North & Sean South,,Sean North & Sean South,seanns.htm,,no PPRS rows
+Shearwater,,Shearwater,shearwat.htm,SHEARWATER,exact (normalised)
+Sinope,,Sinope,sinope.htm,,no PPRS rows
+Skene,,Skene,skene.htm,SKENE,exact (normalised)
+Skiff,,Skiff,skiff.htm,SKIFF,exact (normalised)
+Skua,,Skua,skua.htm,,no PPRS rows
+Staffa,Staffa,,,STAFFA,exact (normalised)
+Statfjord (UK),,Statfjord (UK),statfjrd.htm,STATFJORD,exact (normalised)
+Stirling,Stirling,Stirling,stirling.htm,STIRLING,exact (normalised)
+Strathspey,Strathspey,Strathspey,strathsy.htm,STRATHSPEY,exact (normalised)
+Tartan,Tartan,Tartan,tartan.htm,TARTAN,exact (normalised)
+Teal,,Teal,teal.htm,TEAL,exact (normalised)
+Teal South,Teal South,Teal South,tealsth.htm,TEAL SOUTH,exact (normalised)
+Telford,Telford,Telford,telford.htm,TELFORD,exact (normalised)
+Tern,Tern,Tern,tern.htm,TERN,exact (normalised)
+"Thames, Yare, Bure, Wensum & Deben",,"Thames, Yare, Bure, Wensum & Deben",thames.htm,,no PPRS rows
+Thelma,Thelma,Thelma,thelma.htm,THELMA,exact (normalised)
+Thistle,Thistle,Thistle,thistle.htm,THISTLE,exact (normalised)
+Tiffany,Tiffany,Tiffany,tiffany.htm,TIFFANY,exact (normalised)
+Toni,Toni,Toni,toni.htm,TONI,exact (normalised)
+Trent,,Trent,trent.htm,TRENT,exact (normalised)
+Tristan,,Tristan,tristan.htm,,no PPRS rows
+Tyne South & Tyne North,,Tyne South & Tyne North,tynen.htm,,no PPRS rows
+Valiant North,,Valiant North,valiantn.htm,,no PPRS rows
+Valiant South,,Valiant South,valiants.htm,,no PPRS rows
+Vampire,,Vampire,vampire.htm,,no PPRS rows
+Vanguard,,Vanguard,vanguard.htm,,no PPRS rows
+Victor,,Victor,victor.htm,,no PPRS rows
+Viking ‘Group',,Viking ‘Group',viking.htm,,no PPRS rows
+Vixen,,Vixen,vixen.htm,,no PPRS rows
+Vulcan,,Vulcan,vulcan.htm,,no PPRS rows
+Waveney,,Waveney,waveney.htm,WAVENEY,exact (normalised)
+Welland NW & Welland S,,Welland NW & Welland S,welland.htm,,no PPRS rows
+West Sole,,West Sole,westsole.htm,WEST SOLE,exact (normalised)
+Windermere,,Windermere,winderme.htm,,no PPRS rows

@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Reserve growth: how wrong are the first estimates?</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="hero">
+  <p class="kicker">FORCE VibeCode Hackathon · Stavanger · November 2026</p>
+  <h1>How wrong are the first reserve estimates?</h1>
+  <p class="lede">Every year the operator re-estimates how much oil and gas a field will ever produce. We followed that number for
+    <span data-v="n_fields"></span> Norwegian fields through <span data-v="n_years"></span> annual resource accounts
+    (<span data-v="years"></span>), and asked which fields end up far from where they started.</p>
+  <div class="tiles" id="tiles"></div>
+  <p class="note" id="uk-honest"><strong>About the UK.</strong> The task was suggested for the UK sector. The regulator publishes sector totals only,
+    so a year-by-year estimate per UK field is not open today. We found it for four years: the government's annual “Brown Book” was published on the web
+    from 1998 to 2001 with the operator's estimate for every field, and those editions survive in the Internet Archive. Together with start-up estimates
+    from a 2000 MIT paper and production data from the regulator, that is enough to test the UK too. Norway publishes the full table for 2004–2025,
+    so the main analysis is Norwegian.</p>
+</header>
+
+<main>
+<section id="s-spaghetti" class="card">
+  <h2>1. Every field's estimate, year by year</h2>
+  <p class="sub" id="spaghetti-sub"></p>
+  <div class="controls" role="group" aria-label="Choose view">
+    <button class="seg on" data-mode="pre" aria-pressed="true">New fields, from the estimate before start-up</button>
+    <button class="seg" data-mode="start" aria-pressed="false">…from the end of the start-up year</button>
+    <button class="seg" data-mode="mid" aria-pressed="false">Older fields, from 2004</button>
+  </div>
+  <div class="legend" id="spaghetti-legend"></div>
+  <div class="chart" id="spaghetti" data-h="460"></div>
+  <p class="caption" id="spaghetti-cap"></p>
+  <details><summary>Largest revisions (table)</summary><div class="tablewrap" id="rev-tables"></div></details>
+</section>
+
+<section id="s-field" class="card">
+  <h2>2. Look up one field</h2>
+  <p class="sub">Type a field name as written by the Norwegian Offshore Directorate (Sodir), for example GRANE, EDVARD GRIEG or OSELVAR.</p>
+  <div class="controls">
+    <label for="field-search" class="vh">Field name</label>
+    <input id="field-search" list="field-list" placeholder="Search field…" autocomplete="off" spellcheck="false">
+    <datalist id="field-list"></datalist>
+    <div class="chips" id="field-chips"></div>
+  </div>
+  <div id="field-head"></div>
+  <div class="two">
+    <div><h3>Estimate and what has been produced</h3><div class="legend" id="field-legend"></div><div class="chart" id="field-est" data-h="300"></div></div>
+    <div><h3>Production per year</h3><div class="legend">&nbsp;</div><div class="chart" id="field-prod" data-h="300"></div></div>
+  </div>
+  <div class="facts" id="field-facts"></div>
+</section>
+
+<section id="s-hard" class="card">
+  <h2>3. The harder question: which fields change the most?</h2>
+  <p class="sub" id="hard-sub"></p>
+  <div id="hard-findings" class="findings"></div>
+
+  <h3>Small fields are revised about twice as much</h3>
+  <div class="controls">
+    <label>Years after start-up <select id="funnel-k"><option value="1">1 year</option><option value="3" selected>3 years</option><option value="5">5 years</option></select></label>
+  </div>
+  <div class="chart" id="funnel" data-h="400"></div>
+  <p class="caption" id="funnel-cap"></p>
+
+  <div class="two">
+    <div><h3>Downgrades come fast, upgrades come slowly</h3>
+      <div class="legend" id="timing-legend"></div>
+      <div class="chart" id="timing" data-h="320"></div>
+      <p class="caption" id="timing-cap"></p></div>
+    <div><h3>Upgrades follow continued drilling</h3>
+      <div class="legend" id="drill-legend"></div>
+      <div class="chart" id="drill" data-h="320"></div>
+      <p class="caption" id="drill-cap"></p></div>
+  </div>
+
+  <h3>Can a simple model spot them in advance?</h3>
+  <div id="model-box"></div>
+
+  <h3>What did not separate the fields</h3>
+  <p class="sub" id="nothold-sub"></p>
+  <div class="controls">
+    <label>Group by <select id="drv-feature"></select></label>
+    <label>Years after start-up <select id="drv-h"><option value="5">5 years</option><option value="3">3 years</option></select></label>
+  </div>
+  <div class="chart" id="strip" data-h="320"></div>
+  <p class="caption" id="strip-cap"></p>
+  <div class="two">
+    <div><h4 class="h4">Measurable properties, rank correlation</h4>
+      <p class="sub">Rank correlation with the revision after <span id="forest-h">5</span> years, measured from the end of the start-up year. Bars are 90 % bootstrap intervals; a bar that crosses zero means no clear relation.</p>
+      <div class="legend" id="forest-legend"></div>
+      <div class="chart" id="forest" data-h="330"></div></div>
+    <div><h4 class="h4">Hypotheses that did not hold</h4>
+      <div id="nothold"></div></div>
+  </div>
+  <h3>Three claims from the literature, tested on these data</h3>
+  <div class="claims" id="claims"></div>
+</section>
+
+<section id="s-uk" class="card">
+  <h2>4. The UK: what is open, and what it shows</h2>
+  <p class="sub" id="uk-sub"></p>
+
+  <h3>The estimate at start-up against what the field finally produced</h3>
+  <div class="chart" id="uk-outcome" data-h="380"></div>
+  <p class="caption" id="uk-outcome-cap"></p>
+
+  <div class="two">
+    <div><h3>UK estimates year by year, 1997–2000</h3>
+      <div class="chart" id="uk-annual" data-h="300"></div>
+      <p class="caption" id="uk-annual-cap"></p></div>
+    <div><h3>Has production passed the old estimate?</h3>
+      <div class="legend" id="uk-legend"></div>
+      <div class="chart" id="uk-strip" data-h="300"></div>
+      <p class="caption" id="uk-cap"></p></div>
+  </div>
+  <div class="two">
+    <div><h3>From start-up to today, the same Norwegian oil fields</h3>
+      <p class="sub" id="chain-sub"></p>
+      <div class="chart" id="chain" data-h="260"></div></div>
+    <div><h3>What the UK data say</h3><div id="uk-box"></div></div>
+  </div>
+  <details><summary>Name table and fields that could not be matched</summary><div class="tablewrap" id="uk-tables"></div></details>
+</section>
+
+<section id="s-method" class="card method">
+  <h2>Method and limits</h2>
+  <div id="method"></div>
+</section>
+</main>
+
+<footer>
+  <p>Built during the FORCE VibeCode Hackathon 2026 with AI assistance. Contains data under the Norwegian licence for Open Government data (NLOD)
+    distributed by the Norwegian Offshore Directorate, and data from the North Sea Transition Authority. Not investment advice.</p>
+</footer>
+<div id="tip" role="status" aria-live="polite"></div>
+<script src="app.js"></script>
+</body>
+</html>
